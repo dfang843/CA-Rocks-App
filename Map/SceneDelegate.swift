@@ -2,8 +2,8 @@
 //  SceneDelegate.swift
 //  Map
 //
-//  Created by Dennis Fang on 7/24/20.
-//  Copyright © 2020 Dennis Fang. All rights reserved.
+//  Created by D.F. on 7/24/20.
+//  Copyright © 2020 D.F. All rights reserved.
 //
 
 import UIKit
